@@ -174,7 +174,13 @@ article {
   box-shadow: var(--shadow-1);
   z-index: 1;
 }
-
+.rounded-avatar{
+  border-radius: 20%;
+    
+    width: 80px; 
+     
+    object-fit: cover;
+}
 .separator {
   width: 100%;
   height: 1px;
